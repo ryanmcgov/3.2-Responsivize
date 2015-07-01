@@ -2,6 +2,7 @@
   box-sizing: border-box;
 
 }
+*,
 *before,
 *after {
   box-sizing: inherit;
@@ -35,6 +36,16 @@ body {
 .post_header > h1 {
   font-size: 47px;
   margin-top: 5px;
+}
+.post_header img {
+  height: 40px;
+  width: 40px;
+}
+/*trying to align the name and sprite*/
+.post_header > div > p {
+  display: inline-block;
+  text-align: center;
+
 }
 .post_content {
   background-color: #CCEBFF;
