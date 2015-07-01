@@ -16,7 +16,7 @@ body {
 
 }
 .post_header {
-  position: absolute;
+  position: fixed;
   top: 0;
   bottom: 0;
   background: url('./images/sq.jpeg');
@@ -71,7 +71,7 @@ body {
   border-bottom: 2px solid #c9c9c9;
 
 }
-@media all and (max-width: 600px) {
+@media all and (max-width: 750px) {
   .post_header, .post_content {
     width: auto;
     position: relative;
