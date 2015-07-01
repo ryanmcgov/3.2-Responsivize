@@ -33,11 +33,6 @@ body {
 
 }
 .post_header > h1 {
-  /*text-shadow:
-    -1px -1px 0 black,
-    1px -1px 0 black,
-    -1px 1px 0 black,
-    1px 1px 0 black;  */
   font-size: 47px;
   margin-top: 5px;
 }
@@ -53,11 +48,6 @@ body {
 
 }
 .post_headerNav {
-  /*text-shadow:
-    -1px -1px 0 black,
-    1px -1px 0 black,
-    -1px 1px 0 black,
-    1px 1px 0 black;  */
   list-style: none;
   padding-top: 50px;
   padding-left: 0;
